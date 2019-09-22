@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rupeek</string>
+    <string name="ok">OK</string>
+    <string name="no_internet"><b> No Internet Connection\n</b>\nIt seems you are not connected to the internet - we can\'t find any network. Pull to try again.</string>
+</resources>
